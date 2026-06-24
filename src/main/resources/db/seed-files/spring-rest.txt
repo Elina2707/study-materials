@@ -1,0 +1,4 @@
+Конспект: Spring Boot REST
+- @RestController
+- JWT
+- Spring Data JPA
